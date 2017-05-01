@@ -1,0 +1,7 @@
+External_Transaction_Id,Client_Id,Security_Id,Transaction_Type,Transaction_Date,Market_Value,Priority_Flag
+123,456,789,bill,01/12/15,1200,Y
+1011,789,789,sell,01/12/16,1400,N
+1011,789,789,buy,01/12/16,1400,N
+1011,789,789,buy,01/12/17,1400,N
+1011,789,789,deposit,01/12/17,1400,N
+1011,789,789,withdraw,01/12/17,1400,N
