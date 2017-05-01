@@ -33,5 +33,5 @@
 1. Create a new handler and extend AbstractTransactionProcessHandler
 2. Re-use validate and calulate fee code in AbstractTransactionProcessHandler
 3. Add new file type in FileType.java
-4. Amend TransactionProcessFactoryHandler to return the handler for the new file type.
+4. Amend TransactionProcessFactoryHandler to return the new handler for the new file type.
 5. Code used to read the records from new file type, writing to erroneous and summary report file should be in the new handler. 
