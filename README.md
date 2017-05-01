@@ -23,3 +23,7 @@
 1. Write more Junit tests to have good code coverage. Use Mockito for mocking the services / objects
 2. Modify the code to run handlers in parallel there by reducing the process time. 
 3. Add more logging that will help production support team.
+
+## Assumptions
+1. Validated only Transaction type and Priority flag as I know the valid values. I would like to validate all the fields if I know the possible range / allowed values for them. 
+2. If there is bad data I write that record to the error directory. There is a possibility that it has a pair and needs $10 to be charged as part of intraday transactions but I assume I do not have to write it's pair as well to error directory. 
