@@ -1,4 +1,4 @@
-# feeCalculation
+# feeCalculator
 
 ## Highlevel overview
 1. Open feeCalculation-applicationOverview.xml in https://www.draw.io/ to get an overview class diagram
