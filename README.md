@@ -21,7 +21,7 @@
 ## Improvements if given more time
 1. Write more Junit tests to have good code coverage. Use Mockito for mocking the services / objects
 2. Modify the code to run handlers in parallel there by reducing the process time. 
-3. Add more logging that will help production support team.
+3. Add more logging that will help production support team during troubleshooting.
 4. Present a better intuitive class diagram. 
 
 ## Assumptions
