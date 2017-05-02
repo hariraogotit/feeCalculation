@@ -30,8 +30,7 @@ public class FeeCalculatorServiceImpl implements FeeCalculatorService{
         );
         withDrawTransaction.stream().forEach(
                 withDrawTrans -> applyNominalFee(withDrawTrans)
-        );
-        System.out.println(buyTransaction);
+        );        
 
     }
 
